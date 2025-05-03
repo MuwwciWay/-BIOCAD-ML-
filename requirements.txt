@@ -1,0 +1,7 @@
+pandas                        2.2.3
+numpy                         1.26.4
+seaborn                       0.13.0
+matplotlib                    3.10.0
+missingno                     0.5.2
+catboost                      1.2.7
+scikit-learn                  1.6.1
